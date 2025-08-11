@@ -1,0 +1,30 @@
+div{
+    background-color: lightgray;
+}
+.box{
+    background-color: green;
+    text-align: center;
+    color: white;
+}
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
+th, td{
+    border: 2px solid ;
+}
+iframe{
+    width: 100%;
+}
+button{
+    color: white;
+    background-color: green;
+    border-radius: 10px;
+    width: 100px;}
+input{
+    width: 10%;
+}
+.gray{
+    background-color: gray;
+    text-align: center;
+}
